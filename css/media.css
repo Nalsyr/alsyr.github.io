@@ -1,0 +1,18 @@
+@media (max-width: 1200px) {
+  .menu-item {
+    padding-right: 20px;
+  }
+  .menu-link {
+    font-size: 133px;
+  }
+  .promo-header {
+    font-size: 50px;
+  }    
+  .punkts{
+     align-items: flex-start;
+  }
+  .punkts-text {
+          width: 300px;
+  }
+
+}/*# sourceMappingURL=media.css.map */
